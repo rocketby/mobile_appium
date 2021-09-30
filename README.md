@@ -1,21 +1,21 @@
-Hi!
-The project contains automated tests of Wikipedia app on Android devices! :vibration_mode:
+### Hi there! :raised_hand_with_fingers_splayed:	
+### The project contains automated tests of Wikipedia app on Android devices! :vibration_mode:
 
-:woman_technologist: Use the following commands to execute tests in different hosts:
+:woman_technologist: Use the following commands to execute the tests in different hosts:
 
-1. on **local physical mobile device**:
+:heavy_check_mark: on **local physical mobile device**:
 ```bash
 gradle clean test
 ```
-2. on **mobile device emulator**:
+:heavy_check_mark: on **mobile device emulator**:
 ```bash
 gradle clean test -DdeviceHost=emulator
 ```
-3. in **BrowserStack**:
+:heavy_check_mark: in **BrowserStack**:
 ```bash
 gradle clean test -DdeviceHost=browserstack
 ```
-4. in **Selenoid**:
+:heavy_check_mark: in **Selenoid**:
 ```bash
 gradle clean test -DdeviceHost=selenoid
 ```
