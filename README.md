@@ -1,7 +1,7 @@
 Hi!
-The project contains automated tests of Wikipedia on Android devices.
+The project contains automated tests of Wikipedia app on Android devices! :vibration_mode:
 
-Use the following commands to execute tests in different hosts:
+:woman_technologist: Use the following commands to execute tests in different hosts:
 
 1. on **local physical mobile device**:
 ```bash
